@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dean6078
-- 👀 I’m interested in ... Software Development and Engineering, Blockchain  
-- 🌱 I’m currently learning ... JavaScript and Blockchain Development 
-- 💞️ I’m looking to collaborate on ... A website project 
+- 👀 I’m interested in ... Software Development, Data Analysis, Data Engineering and Blockchain  
+- 🌱 I’m currently learning ... Data Engineering and Blockchain Development 
+- 💞️ I’m looking to collaborate on a Data Engineering project 
 - 📫 How to reach me ... Deanniffy.dn@gmail.com
 
 <!---
